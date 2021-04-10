@@ -1,0 +1,6 @@
+print('Programmed by TTheHolyOne#1642')
+number = input('Please enter the number or string you want to sort!\n')
+sort = sorted(number)
+print('Here is your string/number sorted! \n')
+print(sort)
+print('github.com/TTheHolyOne\nTTheHolyOne#1642\nhttps://www.ttheholyone.com')
